@@ -8,3 +8,8 @@ This data science project series walks through step by step process of how to bu
 5) Jupyter notebook, visual studio code and pycharm as IDE
 6) Python flask for http server
 7) HTML/CSS/Javascript for UI
+
+
+
+
+![Screenshot (417)](https://user-images.githubusercontent.com/111455535/226417397-c0d88b9a-ef55-4a2c-a84c-69ee9ad1a2fd.png)
